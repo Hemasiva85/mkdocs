@@ -1,5 +1,5 @@
 site_name: My Docs
 nav:
   - Home: index.md
-  - Add Module: docs/module1.html
-  - Green Module: docs/module2.html
+  - Add Module: module1.html
+  - Green Module: module2.html
